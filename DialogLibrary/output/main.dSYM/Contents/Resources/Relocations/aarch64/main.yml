@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/di9star/myfisrtdll/output/main'
+relocations:     []
+...
